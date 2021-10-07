@@ -1,0 +1,28 @@
+{
+  "name": "aayuda-frontend",
+  "version": "1.0.0",
+  "description": "A'ayuda front-end application.",
+  "main": "index.js",
+  "repository": "https://github.com/ldstr/aayuda",
+  "author": "Dip Roy, Carson Lin, James Lin, and Jae hon Son",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "latest",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  },
+  "devDependencies": {
+    "@types/node": "^16.10.3",
+    "@types/react": "^17.0.27",
+    "autoprefixer": "^10.2.6",
+    "postcss": "^8.3.5",
+    "tailwindcss": "^2.2.4",
+    "typescript": "^4.4.3"
+  }
+}
